@@ -8,7 +8,7 @@
     $dbhost = "localhost";
     $dbuser = "root";
     $dbpwd = "";
-    $dbname = "absensi_rampa1";
+    $dbname = "";
 
     $conn = new mysqli($dbhost, $dbuser, $dbpwd, $dbname);
  ?>
