@@ -72,21 +72,21 @@ CREATE TABLE `catatan` (
 --
 
 INSERT INTO `catatan` (`id_cat`, `id_user`, `id_bln`, `id_hri`, `id_tgl`, `isi_cat`, `status_cat`) VALUES
-(31, 2, 1, 4, 14, 'Fixed : Navbar link, bug absen pulang, empty input data', 'Dikonfirmasi'),
-(32, 4, 1, 4, 14, 'Tes fixes bug empty note', 'Dikonfirmasi'),
-(33, 4, 1, 4, 14, 'Tidak ada kegiatan, rencannya mau beresin kabel tapi wktunya ngga memungkinkan jadi di tunda.dikasih minum es kelapa muda. :D', 'Dikonfirmasi'),
-(34, 4, 1, 5, 15, 'Identifikasi pc yg tidak bisa masuk bios, ternyata masalah di power supplynya. Setelah di ganti power supplynya baru bisa masuk bios kemudian di install ulang paki windows 7', 'Dikonfirmasi'),
-(35, 4, 1, 5, 15, 'Identifikasi pc yg tidak bisa masuk bios, ternyata masalah di power supplynya. Setelah di ganti power supplynya baru bisa masuk bios kemudian di install ulang paki windows 7', 'Dikonfirmasi'),
-(44, 3, 1, 7, 17, 'Semoga lebih baik :D', 'Menunggu'),
-(43, 2, 1, 7, 17, 'Tes ya', 'Menunggu'),
-(39, 4, 1, 7, 17, 'Mysqli fix bug real escape string', 'Dikonfirmasi'),
-(40, 4, 1, 7, 17, 'Testing 2nd Migration to MySQLi', 'Menunggu'),
-(41, 2, 1, 7, 17, 'Testing 2nd Migrations To MySQLi', 'Menunggu'),
-(45, 4, 1, 2, 19, 'Senin bersihin Ram trus install ulang', ''),
-(46, 5, 2, 5, 19, 'Hemmm tes aja deh :D Hahaha :*', 'Dikonfirmasi'),
-(47, 3, 2, 5, 19, 'Terimakasih Untuk hari ini :D\\r\\nTerimakasih atas semua kebaikan ini :D', 'Menunggu'),
-(48, 3, 2, 5, 19, 'Tes fix Bug :D\r\nSemangaaatt :D \'\'\" <- tesss', 'Menunggu'),
-(49, 8, 4, 4, 30, 'saya telah absen', 'Dikonfirmasi');
+(31, 2, 1, 4, 14,),
+(32, 4, 1, 4, 14,),
+(33, 4, 1, 4, 14,),
+(34, 4, 1, 5, 15,),
+(35, 4, 1, 5, 15,),
+(44, 3, 1, 7, 17,),
+(43, 2, 1, 7, 17,),
+(39, 4, 1, 7, 17,),
+(40, 4, 1, 7, 17,),
+(41, 2, 1, 7, 17,),
+(45, 4, 1, 2, 19,),
+(46, 5, 2, 5, 19,),
+(47, 3, 2, 5, 19,),
+(48, 3, 2, 5, 19,),
+(49, 8, 4, 4, 30,);
 
 -- --------------------------------------------------------
 
