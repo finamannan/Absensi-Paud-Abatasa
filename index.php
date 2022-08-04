@@ -1,8 +1,7 @@
 <?php
 /**
  * 
- *  Absensi Siswa PAUD ABATASA
- *  codinger-mini.blogpsot.com
+ *  Absensi Guru PAUD ABATASA
  *  
  */
 
