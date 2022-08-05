@@ -50,4 +50,5 @@ if (strcmp($page, "absen")==0) {
       } else {
         header("location:absen");
       }
+
 ?>
