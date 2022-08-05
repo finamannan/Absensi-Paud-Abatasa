@@ -1,3 +1,3 @@
 <?php
-	echo "<script>window.alert;window.location=('..absenguru/home');</script>"; 
+	echo "<script>window.alert;window.location=('../home');</script>"; 
 ?>
